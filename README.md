@@ -1,5 +1,5 @@
 | Проект | Описание | Стек |
 |--------|----------|------|
-| [Проект: телекоммуникации ](https) | Выбор лучшей модели, которая будет предсказывать, разорвёт ли абонент договор | Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, CatBoost, LightGBM, SHAP, Phik. |
-| [Название проекта 2](ссылка_на_проект_2) | Краткое описание проекта 2 | SQL, Tableau, Power BI |
-| [Название проекта 3](ссылка_на_проект_3) | Краткое описание проекта 3 | Machine Learning, TensorFlow, PyTorch |
+| [Проект: телекоммуникации ](https://github.com/StasiaMik/portfolio/tree/main/project_telecom) | Выбор лучшей модели, которая будет предсказывать, разорвёт ли абонент договор | Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, CatBoost, LightGBM, SHAP, Phik. |
+| [Проект: определение возраста покупателей](https://github.com/StasiaMik/portfolio/tree/main/project_computer_vision) | Внедрение системы компьютерного зрения для обработки фотографий покупателей | Python, pandas, matplotlib, TensorFlow, Keras, ImageDataGenerator, GPU-тренажер   |
+| [Проект: анализ токсичности комментариев ](https://github.com/StasiaMik/portfolio/tree/main/project_text) | Магазину нужен инструмент, который будет выявлять токсичные комментарии и отправлять их на модерацию |Python, pandas, nltk, sklearn, LogisticRegression, RandomForestClassifier, TfidfVectorizer, GridSearchCV  |
